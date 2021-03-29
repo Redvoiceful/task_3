@@ -37,6 +37,10 @@ p{
     box-sizing: border-box;
 }
 
+.main--page--wrapper{
+    background: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/background.jpg) center top no-repeat;
+}
+
 .container{
     margin: 0 auto;
     width: 1141px;
