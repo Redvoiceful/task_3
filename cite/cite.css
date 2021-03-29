@@ -329,11 +329,11 @@ p{
     vertical-align: top;
     width: 490px;
     height: 505px;
-    background: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/gates.png) center center/ cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/gates.png) center center/ cover no-repeat;
 }
 
 .company__disc{
-    background: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/mountains.png);
+    background: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/mountains.png);
     width: 785px;
     height: 455px;
     border-radius: 5px;
@@ -400,33 +400,33 @@ p{
 }
 
 .socials__item--icon--telegram .social__link{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/telegram.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/telegram.png);
 }
 
 .socials__item--icon--telegram .social__link:hover{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/t.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/t.png);
 }
 
 .socials__item--icon--vk .social__link{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/vk.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/vk.png);
 }
 
 .socials__item--icon--vk .social__link:hover{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/vk1.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/vk1.png);
 }
 
 .socials__item--icon--facebook .social__link{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/f.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/f.png);
 }
 
 .socials__item--icon--facebook .social__link:hover{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/f2.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/f2.png);
 }
 
 .socials__item--icon--instagram .social__link{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/in.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/in.png);
 }
 
 .socials__item--icon--instagram .social__link:hover{
-    background-image: url(https://github.com/Redvoiceful/task_3/blob/main/air-asia/in1.png);
+    background-image: url(https://raw.githubusercontent.com/Redvoiceful/task_3/main/air-asia/in1.png);
 }
