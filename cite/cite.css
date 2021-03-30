@@ -3,6 +3,7 @@ body {
     color: #FFF;
     font-size: 16px;
     line-height: 1.42;
+    margin: 0;
     background: #031920;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -166,7 +167,7 @@ p{
 
 .offers__item{
     width: 362px;
-    height: 449px;
+    min-height: 449px;
     margin-right: 20px;
     background: #FFF;
     border-radius:5px;
@@ -254,7 +255,7 @@ p{
 .news__item{
     display: inline-block;
     width: 557px;
-    height: 394px;
+    min-height: 394px;
     margin-right: 10px;
     vertical-align: top;
     position: relative;
